@@ -49,8 +49,8 @@ Memory Deallocation
 
 ## PROGRAM:
 ```
-Name: Jegathish S
-Reg.No: 212221230041
+Name: Vineesh.M
+Reg.No: 212221230122
 ```
 ### Unrolling 8
 ```
