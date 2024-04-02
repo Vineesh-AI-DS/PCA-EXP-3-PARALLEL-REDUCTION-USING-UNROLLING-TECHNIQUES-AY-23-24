@@ -268,7 +268,9 @@ __global__ void reduceUnrolling16(int *g_idata, int *g_odata, unsigned int n)
 
 ```
 ## Output:
-![output](8.png)
+![8](https://github.com/Vineesh-AI-DS/PCA-EXP-3-PARALLEL-REDUCTION-USING-UNROLLING-TECHNIQUES-AY-23-24/assets/93427254/4d98b237-7a61-4015-b525-e5219acc1901)
+
+
 ### Unrolling 16
 ```
 %%cuda
@@ -491,7 +493,7 @@ __global__ void reduceUnrolling16(int *g_idata, int *g_odata, unsigned int n)
 }
 ```
 ## OUTPUT:
-![alt text](16.png)
+![16](https://github.com/Vineesh-AI-DS/PCA-EXP-3-PARALLEL-REDUCTION-USING-UNROLLING-TECHNIQUES-AY-23-24/assets/93427254/49414074-1aa9-457b-ae94-5cd36e6d1642)
 
 ## RESULT:
 Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that 8 has executed with less elapsed time than 16 with blocks 524488, 1048576.
